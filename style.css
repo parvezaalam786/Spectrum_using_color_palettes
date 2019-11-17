@@ -1,0 +1,56 @@
+body{
+    background-color: aliceblue;
+}
+#para1{
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+.t1{
+    margin: auto;
+}
+.t2{
+    margin: auto;
+}
+
+#row1{
+    padding-left: 50px;
+}
+td{
+    border: 6px solid white;
+    width: 100px;
+    height: 200px;
+    margin: auto;
+    padding: 10px;
+}
+#col1{
+    background-color: ED254E;
+}
+#col2{
+    background-color: F9DC5C;
+}
+#col3{
+    background-color: C7EFCF;
+}
+#col4{
+    background-color: 011936;
+}
+#col5{
+    background-color: 465362;
+}
+#col11{
+    background-color: 4D9DE0;
+}
+#col22{
+    background-color: E15554;
+}
+#col33{
+    background-color: E1BC29;
+}
+#col44{
+    background-color: 3BB273;
+}
+#col55{
+    background-color: 7768AE;
+}
